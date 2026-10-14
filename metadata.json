@@ -1,0 +1,6 @@
+{
+  "name": "DCA Master Study Portal",
+  "description": "DCA (Diploma in Computer Applications) संपूर्ण 6 पेपर्स परीक्षा तैयारी गाइड, प्रश्न-उत्तर एवं मॉडल हल।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
